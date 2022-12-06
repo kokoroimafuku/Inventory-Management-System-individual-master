@@ -1,0 +1,14 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.view": "hierarchical",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "/Inventory-Management-System/lib/itextpdf-5.5.9.jar",
+            "/Users/imafukukokoro/Documents/Inventory-Management-System-main/COSC 310/lib/itextpdf-5.5.9.jar"
+        ]
+    }
+}
